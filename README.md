@@ -2,7 +2,7 @@
 
 "Angular2InVS2015" are Visual Studio 2015 solution files for Angular2. 
 
- You can download, compile them and run simply the Angular2 program besed onTypeScript in Visual Studio 2015.   
+ You can download, compile them and run simply the Angular2 program besed on TypeScript within Visual Studio 2015.   
 
 
 **Version**
