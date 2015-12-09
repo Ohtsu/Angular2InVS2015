@@ -5,4 +5,4 @@ Angular2InVS2015
 
 **Solution File**
 
-All the solution file was uploaded. You can download or cloan it. 
+All the solution files were uploaded. You can download or clone them. 

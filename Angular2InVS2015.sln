@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{117FBAEC-974F-4CB8-A685-4E9CF6FE1003}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Angular2InVS2015", "src\Angular2InVS2015\Angular2InVS2015.xproj", "{4A7F77F3-2659-4CF4-8619-D3FFD627DBF1}"
